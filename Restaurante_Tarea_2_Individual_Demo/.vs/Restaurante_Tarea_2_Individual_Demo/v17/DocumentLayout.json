@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|c:\\users\\chica\\desktop\\ciclo 02 2024\\programacion orientada a eventos\\restaurante_tarea_2_individual_demo\\restaurante_tarea_2_individual\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|solutionrelative:restaurante_tarea_2_individual\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\restaurante_tarea_2_individual\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|solutionrelative:restaurante_tarea_2_individual\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|c:\\users\\chica\\desktop\\ciclo 02 2024\\programacion orientada a eventos\\restaurante_tarea_2_individual_demo\\restaurante_tarea_2_individual\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|solutionrelative:restaurante_tarea_2_individual\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|c:\\users\\chica\\desktop\\ciclo 02 2024\\programacion orientada a eventos\\restaurante_tarea_2_individual_demo\\restaurante_tarea_2_individual\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|solutionrelative:restaurante_tarea_2_individual\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\restaurante_tarea_2_individual\\ui\\ordenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BD2C697-982A-4151-9C4D-C0812E1FB223}|Restaurante_Tarea_2_Individual\\Restaurante_Tarea_2_Individual.csproj|solutionrelative:restaurante_tarea_2_individual\\ui\\ordenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs",
+              "RelativeToolTip": "Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD4vzIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:27:05.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "Restaurante_Tarea_2_Individual\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Login.cs",
+              "RelativeToolTip": "Restaurante_Tarea_2_Individual\\UI\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:26:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "Restaurante_Tarea_2_Individual\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurante_Tarea_2_Individual\\UI\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:13:05.985Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurante_Tarea_2_Individual\\UI\\Dashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:12:02.672Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdenForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\OrdenForm.cs",
+              "RelativeDocumentMoniker": "Restaurante_Tarea_2_Individual\\UI\\OrdenForm.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\CICLO 02 2024\\Programacion Orientada a Eventos\\Restaurante_Tarea_2_Individual_Demo\\Restaurante_Tarea_2_Individual\\UI\\OrdenForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurante_Tarea_2_Individual\\UI\\OrdenForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:16:33.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
